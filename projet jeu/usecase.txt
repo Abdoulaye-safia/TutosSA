@@ -1,0 +1,8 @@
+Diagramme de Use case
+#use case=fonctionnalités
+on a trouvé 2 packages sécurité et administration
+package administration=Créer question +lister joueur+lister question
+package sécurité=se connecter + créer utilisateur +jouer include se connecter/créer utilisateur
+
+
+
